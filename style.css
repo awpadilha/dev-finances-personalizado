@@ -1,0 +1,30 @@
+/* ======= Global =======  */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f0f2f5;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background: cadetblue;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+header h1 {
+  padding: 2rem;
+}
+
+
+#balance {
+
+}
+
+.card {
+
+}
