@@ -10,7 +10,7 @@
 }
 
 body {
-    background: #00f1ff;
+    background: #979dac;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -29,7 +29,7 @@ h2 {
 
 /* ======= Header =======  */
 header {
-    background: linear-gradient( #00669a, #00f1ff);
+    background: linear-gradient(#33415c, #5c677d, #7d8597, #979dac);
     padding: 2rem 0 10rem;
     text-align: center;
 }
@@ -70,7 +70,7 @@ header {
 }
 
 .card.total {
-    background: #00a6f3;
+    background: #002855;
     color: white;
 }
 
